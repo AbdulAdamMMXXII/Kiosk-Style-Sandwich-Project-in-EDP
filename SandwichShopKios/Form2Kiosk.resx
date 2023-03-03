@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label10.Text" xml:space="preserve">
+    <value>A glass of blended orange juice.
+It's sweetened with sugar and honey and served with chilled ice. This is an giant refreshing and nutritious drink that is rich in vitamin C and other essential nutrients. 
+
+</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>A black coned zero sugar Coca-Cola that contains no sugar and has a distinct taste that is similar to regular Coca-Cola. It has a refreshing and crisp taste that is perfect for anyone looking for a sugar-free alternative.
+</value>
+  </data>
+  <data name="label39.Text" xml:space="preserve">
+    <value>330 ml Fanta orange drink in a 330 ml. It's a can of refreshing and fruity beverage that tantalizes the taste buds with its sweet and tangy flavor. This delicious and refreshing fanta orange drink is perfect for anyone looking for a tasty, cold and fizzy beverage to enjoy.</value>
+  </data>
+  <data name="label37.Text" xml:space="preserve">
+    <value>A 250 ml can of Red Bull. It's an invigorating energy drink that is chilled to perfection. The vibrant red and blue design on the can is eye-catching and instantly recognizable. When you crack open the can, you'll be greeted with a burst of refreshing, cool air.</value>
+  </data>
+  <data name="label35.Text" xml:space="preserve">
+    <value>A chicken sandwich with grilled chicken, cheese, a lettuce leaf, and toasted bread is a delicious and filling meal. The grilled chicken is perfectly cooked, tender and juicy, providing a savory flavour to the sandwich. The combination of these ingredients results in a satisfying and flavourful chicken sandwich that's perfect for a lunch.
+</value>
+  </data>
+  <data name="label33.Text" xml:space="preserve">
+    <value>A cheese and salad sandwich. 
+It's a delicious and filling sandwich made with fresh, high-quality ingredients. This sandwich contains a generous serving of rich and creamy cheese, complemented by a bed of fresh, crispy lettuce leaves.</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>A ham sandwich.
+The sliced ham that adds a savory and salty flavor, while the cheese provides a rich and creamy texture. The salad elements provide a refreshing crunch and a range of vitamins and nutrients.
+
+</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>This luxury hand-made tuna and salad sandwich is a mouthwatering explosion of fresh and savory flavours. With succulent chunks of premium tuna nestled between crisp lettuce, juicy tomato slices and artisan bread.
+</value>
+  </data>
+  <data name="label43.Text" xml:space="preserve">
+    <value>A mixed salad with chicken. It's a delicious and healthy dish that combines the goodness of fresh greens with the protein-rich goodness of chicken. The salad is a medley of greens including lettuce, spinach, and arugula, mixed with other essential salad ingredients which includes crunchy cucumbers, juicy tomatoes, and sliced onions.</value>
+  </data>
+  <data name="label41.Text" xml:space="preserve">
+    <value>The combination of these three ingredients creates a balance of textures and flavors, with the lettuce providing a mild crunch, the cucumbers offering a cool and refreshing taste, and the tomatoes adding a juicy sweetness. This green salad is a healthy and delicious addition to any meal or as a standalone dish.
+ </value>
+  </data>
+  <data name="label25.Text" xml:space="preserve">
+    <value> A delicious and nutritious vegetable and fruit dish that contains a variety of ingredients. This colourful and flavorful salad provides a healthy dose of vitamins and minerals, making it a great choice for a light and refreshing snack.
+</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>A mixed fruit salad that contains berries, melons, apples, grapes, kiwis, oranges, and pineapples. This is salad is the best way to enjoy a variety of fruits at once, which can provide a range of nutrients and vitamins that are beneficial for health.
+</value>
+  </data>
+  <data name="label47.Text" xml:space="preserve">
+    <value>A birthday cake dessert that's a rich and decadent cake made with layers of moist sponge cake and creamy buttercream frosting. It's filled with chopped nuts, almonds and pecans, which add a satisfying crunch and nutty flavour to each bite.
+</value>
+  </data>
+  <data name="label45.Text" xml:space="preserve">
+    <value>A delicious dessert with a triangular shape slice that contains the perfect combination of sweet strawberries and refreshing mint ice cream. The vibrant red of the ripe strawberries contrasts beautifully with the creamy green of the mint ice cream. The slice is carefully cut, revealing layers of fresh strawberries and creamy ice cream.</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>A rich dessert with a combination of chocolate ice cream, acai palm petit, and gateau ice cream. The chocolate ice cream provides a creamy and indulgent base, while the acai palm petit adds a fruity and slightly tart flavor. </value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>It's the decadent dessert.
+It features layers of creamy white and rich black chocolate mousse, infused with the flavours of sweet vanilla, ripe strawberries and refreshing mint; creating a harmonious balance of indulgence and freshness.
+</value>
+  </data>
+</root>
